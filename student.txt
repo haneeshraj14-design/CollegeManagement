@@ -1,7 +1,5 @@
-College Management System
+College Management System 
 Student Name: Haneesh Raj
-Roll Number: 016 
+Roll Number: 016
 Department: CSD
 Semester: 5
-Attendance: 85% 
-Result: PASS
